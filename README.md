@@ -10,7 +10,7 @@ pkg install -y git python
 
 git clone https://github.com/BrunoBarrosEDT/Networking-Hacking.py
 
-cd NH.py
+cd Networking-Hacking.py
 
 bash install.sh
 ```
@@ -23,7 +23,7 @@ apt-get install -y git python
 
 git clone https://github.com/BrunoBarrosEDT/Networking-Hacking.py
 
-cd NH.py
+cd Networking-Hacking.py
 
 sudo bash install.sh
 ```
